@@ -1,0 +1,23 @@
+{
+    "discord": {
+        "token": "MTA1NDAxMjE4MzEyMzYwMzQ5Nw.Gln6dO.lBg6sP6-CVFl7Fr8_G_a3lXGSVfiz64dj4HkWw",
+        "id": "1054012183123603497"
+    },
+    "applications_commands": {
+        "global": true,
+        "guild_id": "1147488165490331658"
+    },
+    "database": {
+        "enabled": false,
+        "url": "mongodb+srv://lyvo4415:onurcan1234@31.6oyhkoc.mongodb.net/?retryWrites=true&w=majority"
+    },
+    "express": {
+        "port": 3000
+    },
+    "owners": [
+       "872832060232970252",
+       "849961901085032468"
+    ],
+    "add": "adding_sub",
+    "remove": "removeing_sub"
+}
